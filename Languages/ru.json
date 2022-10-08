@@ -1,0 +1,11 @@
+
+{
+    "language": "en",
+    "author": "",
+    "json": {
+        "global": {
+           "uploadbtn": "Добавить видер",
+           "langbtn": "Русский"
+        }
+    }
+}
